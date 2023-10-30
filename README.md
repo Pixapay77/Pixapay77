@@ -15,7 +15,7 @@ Dentro de nossa plataforma você pode remunerar sendo:
 - Possibilidade de adicionar outras softwarehouses para serem parceiras de sua fintech e remunerarem juntas.
 - Painel web e documentação do postman para outras softwarehouses que queiram integrar.
 - Ambiente de sandbox personalizado.
-- Aplicativo para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US) 
+- Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US) 
 
 ## Documentação
 - Toda a documentação da comunicação com nossa API está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri)
