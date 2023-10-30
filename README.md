@@ -14,7 +14,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 ## Vantagens de ser WhiteLabel
 - Toda a plataforma com sua marca. A Pixapay nunca aparecerá para seu cliente.
 - Possibilidade de adicionar outras softwarehouses para serem parceiras de sua fintech e remunerarem juntas.
-- Painel web e documentação do postman para outras softwarehouses que queiram integrar.
+- Painel web e documentação da API para outras softwarehouses que queiram integrar.
 - Ambiente de sandbox personalizado.
 - Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US).
 
