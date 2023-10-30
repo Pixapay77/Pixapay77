@@ -3,9 +3,9 @@ Somos uma plataforma financeira especializada em automação de cobranças via P
 
 ## Nossa parceria
 Dentro de nossa plataforma você se torna um parceiro sendo: 
-#### Indicator / Indicador
+#### (1) Indicator / Indicador
 - Ao indicar uma empresa e a mesma virar nossa cliente e começar a transacionar dentro de nossa plataforma, este parceiro receberá uma comissão.
-#### Representative / Representante
+#### (2) Representative / Representante
 **Tudo que a parceria "Indicator" possui e mais**: 
 - Realização de cadastro de contas filhas.
 - Acesso ao painel web para o representante e seus clientes.
@@ -13,7 +13,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Ambiente de sandbox para testes em geral.
 - Possui apoio e suporte diretamente com nossa equipe especializada.
 - Grupo de whatsapp para auxílio na integração de seu software.
-#### Whitelabel
+#### (3) Whitelabel
 **Tudo que a parceria "Representante" possui e mais**: 
 - Fintech com a marca de sua empresa ou seu software.
 - Painel web personalizado com url, nome, logo e cores personalizados com sua marca.
