@@ -3,9 +3,19 @@ Somos uma plataforma financeira especializada em automação de cobranças via P
 
 ## Nossa parceria
 Dentro de nossa plataforma você se torna um parceiro sendo: 
-- **Representante**, onde cadastrará novas empresas como contas filias. Poderá utilizar nosso painel web para seus clientes acessarem as suas informações ou mesmo integrar todos os recursos de nossa plataforma dentro de seu próprio sistema utilizando nossa API. 
-- **WhiteLabel**, onde liberaremos um painel personalizado com sua marca, logo e cores. Nesta modalidade não aparecemos de nenhuma forma para seu cliente, ele sempre terá o contato direto com sua equipe especializada.
-- **Indicador**, nesta modalidade você apenas indicará uma possível empresa cliente. Caso esta indicação venha a se tornar um cliente, é gerada uma comissão para o parceiro indicador apenas.
+#### Indicator / Indicador
+- Ao indicar uma empresa e a mesma virar nossa cliente e iniciar a transacionar dentro de nossa plataforma, este parceiro receberá uma comissão.
+#### Representative / Representante
+**Tudo que a parceria "Indicator" possui e mais**: 
+- Realização de cadastro de contas filhas.
+- Acesso ao painel web para o representante e seus clientes.
+- Acesso completo à API para automatizar processos ou conectar com seu software.
+- Possui apoio e suporte diretamente com nossa equipe especializada.
+#### Whitelabel
+**Tudo que a parceria "Representante" possui e mais**: 
+- Fintech com a marca de sua empresa ou seu software.
+- Painel web personalizado com url, nome, logo e cores personalizados com sua marca.
+- Possibilidade de anexar outras softwarehouses ou parceiros representantes para ganharem nas transações de seus clientes.
 
 ## Como remunerar
 - A remuneração principal sempre será nas transações realizadas pelos seus clientes. Você parceiro terá uma taxa negociada diretamente conosco. Para seus clientes, **você terá a liberdade de negociar qualquer taxa maior ou igual a que você possui conosco**. A diferença entre a taxa que você cobrará de seus clientes e a de seu custo, será sua comissão e ficará disponível para sua empresa dentro de nossa plataforma.
