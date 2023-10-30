@@ -2,7 +2,7 @@
 Somos uma plataforma financeira especializada em automação de cobranças via PIX, CARTÃO e BOLETO. Buscamos entregar uma solução cada vez mais segura, rápida e estável para nossos parceiros e clientes.
 
 ## Nossa parceria
-Dentro de nossa plataforma você pode remunerar sendo:
+Dentro de nossa plataforma você torna-se um parceiro sendo: 
 - **Representante**, onde cadastrará novas empresas como suas filias. Poderá utilizar nosso painel web para seus clientes acessarem as suas informações ou mesmo integrar todos os recursos de nossa plataforma dentro de seu próprio sistema utilizando nossa API. 
 - **WhiteLabel**, onde liberaremos um painel personalizado com sua marca, logo e cores. Nesta modalidade não aparecemos de nenhuma forma para seu cliente, ele sempre terá o contato direto com sua equipe especializada.
 - **Indicador**, nesta modalidade você apenas indicará uma possível empresa cliente. Caso esta indicação venha a se tornar um cliente, é gerada uma comissão para o parceiro indicador apenas.
