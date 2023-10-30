@@ -10,6 +10,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Realização de cadastro de contas filhas.
 - Acesso ao painel web para o representante e seus clientes.
 - Acesso completo à API para automatizar processos ou conectar com seu software.
+- Ambiente de sandbox para testes em geral.
 - Possui apoio e suporte diretamente com nossa equipe especializada.
 - Grupo de whatsapp para auxílio na integração de seu software.
 #### Whitelabel
@@ -17,17 +18,11 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Fintech com a marca de sua empresa ou seu software.
 - Painel web personalizado com url, nome, logo e cores personalizados com sua marca.
 - Possibilidade de anexar outras softwarehouses ou parceiros representantes para ganharem nas transações de seus clientes.
+- Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US).
 
 ## Como remunerar
 - A remuneração principal sempre será nas transações realizadas pelos seus clientes. Você parceiro terá uma taxa negociada diretamente conosco. Para seus clientes, **você terá a liberdade de negociar qualquer taxa maior ou igual a que você possui conosco**. A diferença entre a taxa que você cobrará de seus clientes e a de seu custo, será sua comissão e ficará disponível para sua empresa dentro de nossa plataforma.
 - Assim que a transação for concluída e o dinheiro da cobrança ficar disponível na conta digital de seu cliente, automaticamente a sua comissão é gerada e disponibilizada em seu painel web.
-
-## Vantagens de ser WhiteLabel
-- Toda a plataforma com sua marca. A Pixapay nunca aparecerá para seu cliente.
-- Possibilidade de adicionar outras softwarehouses para serem parceiras de sua fintech e remunerarem juntas.
-- Painel web e documentação da API para outras softwarehouses que queiram integrar.
-- Ambiente de sandbox personalizado.
-- Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US).
 
 ## Documentação da API
 - Toda a documentação da comunicação com nosso ambiente está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri).
