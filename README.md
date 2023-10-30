@@ -1,4 +1,4 @@
-✨ Seja bem vindo ao canal oficial de integração com nossa fintech!! ✨
+# ✨ Bem vindo ao nosso canal oficial de integração
 
 ## Nossa parceria
 Dentro de nossa plataforma você pode remunerar sendo:
@@ -17,8 +17,8 @@ Dentro de nossa plataforma você pode remunerar sendo:
 - Ambiente de sandbox personalizado.
 - Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US).
 
-## Documentação
-- Toda a documentação da comunicação com nossa API está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri).
+## Documentação da API
+- Toda a documentação da comunicação com nosso ambiente está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri).
 
 ## Componentes plug-and-play
 - Para softwares wordpress, fornecemos um plugin para woocommerce pronto para ser conectado e utilizado rapidamente, consulte [aqui](https://github.com/Pixapay77/Plugin-Woocommerce) a documentação completa.
