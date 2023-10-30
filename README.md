@@ -4,7 +4,7 @@ Somos uma plataforma financeira especializada em automação de cobranças via P
 ## Nossa parceria
 Dentro de nossa plataforma você se torna um parceiro sendo: 
 #### Indicator / Indicador
-- Ao indicar uma empresa e a mesma virar nossa cliente e iniciar a transacionar dentro de nossa plataforma, este parceiro receberá uma comissão.
+- Ao indicar uma empresa e a mesma virar nossa cliente e começar a transacionar dentro de nossa plataforma, este parceiro receberá uma comissão.
 #### Representative / Representante
 **Tudo que a parceria "Indicator" possui e mais**: 
 - Realização de cadastro de contas filhas.
