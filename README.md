@@ -9,7 +9,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 
 ## Como remunerar
 - A remuneração principal sempre será nas transações realizadas pelos seus clientes. Você parceiro terá uma taxa negociada diretamente conosco. Para seus clientes, **você terá a liberdade de negociar qualquer taxa maior ou igual a que você possui conosco**. A diferença entre a taxa que você cobrará de seus clientes e a de seu custo, será sua comissão e ficará disponível para sua empresa dentro de nossa plataforma.
-- Assim que a transação for concluída com sucesso e o dinheiro da cobrança ficar disponível na conta digital de seu cliente, automaticamente a sua comissão é gerada e disponibilizada em seu painel web.
+- Assim que a transação for concluída e o dinheiro da cobrança ficar disponível na conta digital de seu cliente, automaticamente a sua comissão é gerada e disponibilizada em seu painel web.
 
 ## Vantagens de ser WhiteLabel
 - Toda a plataforma com sua marca. A Pixapay nunca aparecerá para seu cliente.
