@@ -18,6 +18,12 @@ Dentro de nossa plataforma você pode remunerar sendo:
 - Ambiente de sandbox personalizado.
 - Aplicativo personalizado para geração de cobranças pix manualmente. [Google play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay&hl=en_US).
 
+## Contato
+Para melhor atendermos nossos parceiros, efetuamos a criação de um grupo via whatsapp para acompanhamento e acessoria na implementação da integração e adesão de novos clientes. Contate-nos para mais informações:
+- **contato@pixapay.com.br**
+- **0800 642 1358**
+- **(51) 984 110 291** (Whatsapp)
+
 ## Documentação da API
 - Toda a documentação da comunicação com nosso ambiente está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri).
 
