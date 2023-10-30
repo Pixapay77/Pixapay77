@@ -22,7 +22,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 Para melhor atendermos nossos parceiros, efetuamos a criação de um grupo via whatsapp para acompanhamento e acessoria na implementação da integração e adesão de novos clientes. Contate-nos para mais informações:
 - **contato@pixapay.com.br**
 - **0800 642 1358**
-- **(51) 984 110 291** (Whatsapp)
+- **(51) 984 110 291** (Whatsapp) [Google play](https://wa.me//5551984110291?text=Olá,%20gostariamos%20de%20mais%20informações...) 
 
 ## Documentação da API
 - Toda a documentação da comunicação com nosso ambiente está descrita [aqui](https://documenter.getpostman.com/view/3333877/2s9YXb8Qri).
