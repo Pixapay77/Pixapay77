@@ -11,6 +11,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Acesso ao painel web para o representante e seus clientes.
 - Acesso completo à API para automatizar processos ou conectar com seu software.
 - Possui apoio e suporte diretamente com nossa equipe especializada.
+- Grupo de whatsapp para auxílio na integração de seu software.
 #### Whitelabel
 **Tudo que a parceria "Representante" possui e mais**: 
 - Fintech com a marca de sua empresa ou seu software.
