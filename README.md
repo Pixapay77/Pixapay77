@@ -14,7 +14,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Possui apoio e suporte diretamente com nossa equipe especializada.
 - Grupo de whatsapp para auxílio na integração de seu software.
 #### (3) Whitelabel
-**Tudo que a parceria "Representante" possui e mais**: 
+**Tudo que a parceria "Representative" possui e mais**: 
 - Fintech com a marca de sua empresa ou seu software.
 - Painel web personalizado com url, nome, logo e cores personalizados com sua marca.
 - Possibilidade de anexar outras softwarehouses ou parceiros representantes para ganharem nas transações de seus clientes.
