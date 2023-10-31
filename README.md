@@ -32,7 +32,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 - Conecte nosso EXE com sua aplicação windows para geração rápida de cobrança PIX. [Acessar documentação](https://github.com/Pixapay77/App_PixInstantaneo).
 
 ## Contato
-Para melhor atendermos nossos parceiros, efetuamos a criação de um grupo via whatsapp para acompanhamento e acessoria na implementação da integração e adesão de novos clientes. Contate-nos para mais informações:
+Para mais informações, contate um de nossos especialistas:
 - **contato@pixapay.com.br**
 - **0800 642 1358**
 - **(51) 984 110 291** ([Whatsapp](https://wa.me//5551984110291?text=Olá,%20gostaríamos%20de%20mais%20informações...))
