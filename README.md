@@ -29,7 +29,7 @@ Dentro de nossa plataforma você se torna um parceiro sendo:
 
 ## Componentes plug-and-play
 - Para softwares wordpress, fornecemos um plugin para woocommerce pronto para ser conectado e utilizado rapidamente, consulte [aqui](https://github.com/Pixapay77/Plugin-Woocommerce) a documentação completa.
-- Conecte nosso EXE com sua aplicação windows para geração rápida de cobrança PIX. [Acessar documentação](https://github.com/Douglas09/Pixapay-Fintech).
+- Conecte nosso EXE com sua aplicação windows para geração rápida de cobrança PIX. [Acessar documentação](https://github.com/Pixapay77/App_PixInstantaneo).
 
 ## Contato
 Para melhor atendermos nossos parceiros, efetuamos a criação de um grupo via whatsapp para acompanhamento e acessoria na implementação da integração e adesão de novos clientes. Contate-nos para mais informações:
