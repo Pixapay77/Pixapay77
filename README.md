@@ -1,5 +1,5 @@
 # ✨ Bem vindo ao nosso canal oficial de integração
-Somos uma plataforma financeira especializada em automação de cobranças via PIX, CARTÃO e BOLETO. Buscamos entregar uma solução cada vez mais segura, rápida e estável para nossos parceiros e clientes.
+Somos uma plataforma financeira especializada na automação de cobranças via PIX, CARTÃO e BOLETO. Buscamos entregar uma solução cada vez mais segura, rápida e estável para nossos parceiros e clientes.
 
 ## Nossa parceria
 Dentro de nossa plataforma você se torna um parceiro sendo: 
